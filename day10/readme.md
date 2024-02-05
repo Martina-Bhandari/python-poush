@@ -1,3 +1,2 @@
 user table
-
-User login
+OTP feature
